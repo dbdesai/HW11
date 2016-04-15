@@ -1,0 +1,3 @@
+{"name":"Gandhi","gender":"male","grade":"A","GPA":"3","detentions":"4","sleepingInClass":"false","catchPhrase":"I am awesome"}
+{"name":"A-A-Ron","gender":"male","grade":"A","GPA":"2","detentions":"12","sleepingInClass":"true","catchPhrase":"I am not awesome"}
+{"name":"Bob","gender":"female","grade":"A","GPA":"3","detentions":"4","sleepingInClass":"false","catchPhrase":"I am a great student"}
